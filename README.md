@@ -1,8 +1,8 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQH6_rS-y4PTEA/profile-displaybackgroundimage-shrink_350_1400/0/1706080868954?e=1722470400&v=beta&t=VET6DwXswry4yEldbc1ksXJnEPp3UzSj7041NUXL3R0)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQH6_rS-y4PTEA/profile-displaybackgroundimage-shrink_350_1400/0/1706080868954?e=1722470400&v=beta&t=VET6DwXswry4yEldbc1ksXJnEPp3UzSj7041NUXL3R0)
 
 <h1 align="center">Hi 👋, I'm Aman Ranhangdale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif' > 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrahangdale24&label=Profile%20views&color=0e75b6&style=flat" alt="amanrahangdale24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrahangdale24" alt="amanrahangdale24" /></a> </p>
