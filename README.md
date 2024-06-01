@@ -4,7 +4,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrahangdale24&label=Profile%20views&color=0e75b6&style=flat" alt="amanrahangdale24" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrahangdale24" alt="amanrahangdale24" /></a> </p>
 
 - 🔭 I currently worked on [Augmented-reality-based learning for primary students](https://github.com/amanrahangdale24/Augmented-reality-based-learning-for-primary-students)
