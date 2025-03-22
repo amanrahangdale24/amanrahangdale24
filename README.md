@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amanrahangdale543@gmail.com**
 
-- ⚡ Fun fact **I think i am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
